@@ -58,20 +58,20 @@
 <br/>
 <br/>
 <p align="center">
-  <a href="https://github.com/CatBoxArts">
+  <a href="https://github.com/CatBoxArtsCo">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CatBoxArts&theme=graywhite&border=FFFFFF" alt="CatBox's GitHub streak"/>
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/CatBoxArts">
+  <a href="https://github.com/CatBoxArtsCo">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CatBoxArts&theme=graywhite" alt="CatBox's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/CatBoxArts"><img alt="Al CatBox's GitHub Contribution" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CatBoxArts&show_icons=true&count_private=true&theme=graywhite" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/CatBoxArts"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CatBoxArts&langs_count=8&layout=compact&theme=graywhite" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/CatBoxArtsCo"><img alt="CatBox's GitHub Contribution" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=CatBoxArts&show_icons=true&count_private=true&theme=graywhite" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/CatBoxArtsCo"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CatBoxArts&langs_count=8&layout=compact&theme=graywhite" height="192px" width="49.5%"/></a>
   <br/>
 </a>
