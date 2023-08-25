@@ -45,7 +45,7 @@
 </p>
 
 ## Our projects 🕹
-[![Totalitaire](https://github-readme-stats.vercel.app/api/pin/?username=CatBoxArts&repo=totalitaire&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFFFFF)](https://github.com/CatBoxArts)
+[![Totalitaire](https://github-readme-stats.vercel.app/api/pin/?username=CatBoxArts&repo=totalitaire&border_color=FFFFFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FFFFFF)](https://github.com/CatBoxArtsCo/Totalitaire)
 
 <p align="left">
   <a href="https://github.com/CatBoxArts?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-FFFFFF?style=for-the-badge&logo=koding&logoColor=white"/></a>
